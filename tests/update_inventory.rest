@@ -1,0 +1,2 @@
+POST http://localhost:8081/inventory/update
+Content-Type: application/json
